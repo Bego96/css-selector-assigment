@@ -22,6 +22,6 @@ a[href="https://www.link-group.eu/"] {
     font-style: italic;
 }
 
-p:nth-last-of-type(1):hover {
+body > p:nth-last-child(1):hover {
     font-style: italic;
 }
